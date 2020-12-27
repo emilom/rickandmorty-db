@@ -2,7 +2,7 @@ Rick and Morty Database app
 
 ## Kjøre prosjektet
 
-Kan lastes ned på android [her] (https://play.google.com/store/apps/details?id=com.fredrikbw.nativeapp)
+Kan lastes ned på android [her](https://play.google.com/store/apps/details?id=com.fredrikbw.nativeapp)
 
 Eller kjøres lokalt:
 
@@ -26,7 +26,7 @@ Bentytt [expo-client](https://expo.io/) på mobilen, scan deretter QR-koden som 
 
 ## Om applikasjonen
 
-Vi har lagd en app som baserer seg på data fra (The Rick and Morty API)[https://rickandmortyapi.com/] . Der man har mulighet til å søke blant alle karakterene i tegneserien Rick and Morty.
+Vi har lagd en app som baserer seg på data fra [The Rick and Morty API](https://rickandmortyapi.com/) . Der man har mulighet til å søke blant alle karakterene i tegneserien Rick and Morty.
 
 ## Teknologi
 Prosjektet er bygget i React Native og er implementert i Typescript.
