@@ -1,6 +1,6 @@
 Rick and Morty Database app
 
-<img src="./img/IMG_3111.PNG" width="300"><img src="./img/IMG_3112.PNG" width="300"><img src="./img/IMG_3113.PNG" width="300"><img src="./img/IMG_3114.PNG" width="300">
+<img src="./img/IMG_3111.PNG" width="300"> <img src="./img/IMG_3112.PNG" width="300"> <img src="./img/IMG_3113.PNG" width="300"> <img src="./img/IMG_3114.PNG" width="300">
 
 ## Kjøre prosjektet
 
