@@ -1,12 +1,12 @@
 Rick and Morty Database app
 
-![Startside](./img/IMG_3111.PNG)
+<img src="./img/IMG_3111.PNG" width="300">
 
-![Filter](./img/IMG_3112.PNG)
+<img src="./img/IMG_3112.PNG" width="300">
 
-![Mer info](./img/IMG_3113.PNG)
+<img src="./img/IMG_3113.PNG" width="300">
 
-![Søk](./img/IMG_3114.PNG)
+<img src="./img/IMG_3114.PNG" width="300">
 
 ## Kjøre prosjektet
 
