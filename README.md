@@ -1,5 +1,13 @@
 Rick and Morty Database app
 
+![Startside](./img/IMG_3111.PNG)
+
+![Filter](./img/IMG_3112.PNG)
+
+![Mer info](./img/IMG_3113.PNG)
+
+![Søk](./img/IMG_3114.PNG)
+
 ## Kjøre prosjektet
 
 Kan lastes ned på android [her](https://play.google.com/store/apps/details?id=com.fredrikbw.nativeapp)
