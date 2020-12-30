@@ -8,7 +8,7 @@ Eller kjøres lokalt:
 
 * Klon eller last ned prosjektet
 
-Åpne en terminal og naviger til  *project-4/native-app*
+Åpne en terminal og naviger til  *project-4/nativeapp*
 
 For å installere kjører du 
     
